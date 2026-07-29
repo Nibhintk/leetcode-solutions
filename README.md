@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nibhintk/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Nibhintk/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nibhintk/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nibhintk/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nibhintk/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0198-house-robber](https://github.com/Nibhintk/leetcode-solutions/tree/master/0198-house-robber) |
 ## Stack
 |  |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Nibhintk/leetcode-solutions/tree/master/0013-roman-to-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nibhintk/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
