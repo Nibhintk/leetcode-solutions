@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Nibhintk/leetcode-solutions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Nibhintk/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0496-next-greater-element-i](https://github.com/Nibhintk/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nibhintk/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 ## Dynamic Programming
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Nibhintk/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0091-decode-ways](https://github.com/Nibhintk/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/Nibhintk/leetcode-solutions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Nibhintk/leetcode-solutions/tree/master/0213-house-robber-ii) |
 ## Stack
 |  |
 | ------- |
