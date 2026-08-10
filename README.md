@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Nibhintk/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0205-isomorphic-strings](https://github.com/Nibhintk/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nibhintk/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0796-rotate-string](https://github.com/Nibhintk/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nibhintk/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Nibhintk/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Queue
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/Nibhintk/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Nibhintk/leetcode-solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
