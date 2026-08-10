@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Nibhintk/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0205-isomorphic-strings](https://github.com/Nibhintk/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nibhintk/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Nibhintk/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## String
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Nibhintk/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Nibhintk/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0091-decode-ways](https://github.com/Nibhintk/leetcode-solutions/tree/master/0091-decode-ways) |
+| [0205-isomorphic-strings](https://github.com/Nibhintk/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nibhintk/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nibhintk/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Nibhintk/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
