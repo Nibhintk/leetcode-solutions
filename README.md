@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nibhintk/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Nibhintk/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/Nibhintk/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/Nibhintk/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0205-isomorphic-strings](https://github.com/Nibhintk/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nibhintk/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nibhintk/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Nibhintk/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Nibhintk/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/Nibhintk/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/Nibhintk/leetcode-solutions/tree/master/0198-house-robber) |
@@ -90,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1922-count-good-numbers](https://github.com/Nibhintk/leetcode-solutions/tree/master/1922-count-good-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Nibhintk/leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Nibhintk/leetcode-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
