@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Nibhintk/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/Nibhintk/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/Nibhintk/leetcode-solutions/tree/master/1922-count-good-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Nibhintk/leetcode-solutions/tree/master/0796-rotate-string) |
+## Recursion
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/Nibhintk/leetcode-solutions/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
