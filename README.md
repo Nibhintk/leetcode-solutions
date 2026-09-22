@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Nibhintk/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Nibhintk/leetcode-solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Nibhintk/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nibhintk/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Nibhintk/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -27,12 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Nibhintk/leetcode-solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nibhintk/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Array
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Nibhintk/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/Nibhintk/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Nibhintk/leetcode-solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Nibhintk/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Nibhintk/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0496-next-greater-element-i](https://github.com/Nibhintk/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nibhintk/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Nibhintk/leetcode-solutions/tree/master/0169-majority-element) |
 ## Greedy
 |  |
 | ------- |
@@ -102,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Nibhintk/leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Nibhintk/leetcode-solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Nibhintk/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
